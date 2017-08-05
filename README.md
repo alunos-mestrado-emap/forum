@@ -1,2 +1,2 @@
 # forum
-para concentrar discussoes sobre organizacao e topicos diversos
+para concentrar discussoes sobre a organizacao e topicos diversos.
